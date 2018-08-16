@@ -1,0 +1,21 @@
+{
+  "name": "search-perf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "js-search": "^1.4.2",
+    "lodash": "^4.17.10"
+  },
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "mocha": "^5.2.0",
+    "porter-stemmer": "^0.9.1",
+    "randomatic": "^3.1.0"
+  }
+}
